@@ -290,6 +290,8 @@
 "Assets/Scripts/BallSpring.cs"
 "Assets/Scripts/OrbitSpotLight.cs"
 "Assets/Scripts/PlayerController.cs"
+"Assets/Scripts/RayCaster.cs"
+"Assets/Scripts/SceneManager.cs"
 -langversion:9.0
 /deterministic
 /optimize+

@@ -3,16 +3,24 @@
   "WorkspaceRootPath": "C:\\GitHub\\Unity\\AECTech_Unity_WebGL_Workshop\\AEC_Tech_Sample_Project\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{07780136-BB40-1F8D-7EAD-37E32CA936CD}|Assembly-CSharp.csproj|c:\\github\\unity\\aectech_unity_webgl_workshop\\aec_tech_sample_project\\assets\\scripts\\ballspring.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{07780136-BB40-1F8D-7EAD-37E32CA936CD}|Assembly-CSharp.csproj|C:\\GitHub\\Unity\\AECTech_Unity_WebGL_Workshop\\AEC_Tech_Sample_Project\\assets\\scripts\\raycaster.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{07780136-BB40-1F8D-7EAD-37E32CA936CD}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\raycaster.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{07780136-BB40-1F8D-7EAD-37E32CA936CD}|Assembly-CSharp.csproj|c:\\github\\unity\\aectech_unity_webgl_workshop\\aec_tech_sample_project\\assets\\scripts\\scenemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{07780136-BB40-1F8D-7EAD-37E32CA936CD}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\scenemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{07780136-BB40-1F8D-7EAD-37E32CA936CD}|Assembly-CSharp.csproj|C:\\GitHub\\Unity\\AECTech_Unity_WebGL_Workshop\\AEC_Tech_Sample_Project\\assets\\scripts\\playercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{07780136-BB40-1F8D-7EAD-37E32CA936CD}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\playercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{07780136-BB40-1F8D-7EAD-37E32CA936CD}|Assembly-CSharp.csproj|C:\\GitHub\\Unity\\AECTech_Unity_WebGL_Workshop\\AEC_Tech_Sample_Project\\assets\\scripts\\ballspring.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{07780136-BB40-1F8D-7EAD-37E32CA936CD}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\ballspring.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{07780136-BB40-1F8D-7EAD-37E32CA936CD}|Assembly-CSharp.csproj|C:\\GitHub\\Unity\\AECTech_Unity_WebGL_Workshop\\AEC_Tech_Sample_Project\\assets\\scripts\\orbitspotlight.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{07780136-BB40-1F8D-7EAD-37E32CA936CD}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\orbitspotlight.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{07780136-BB40-1F8D-7EAD-37E32CA936CD}|Assembly-CSharp.csproj|C:\\GitHub\\Unity\\AECTech_Unity_WebGL_Workshop\\AEC_Tech_Sample_Project\\assets\\scripts\\playercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{07780136-BB40-1F8D-7EAD-37E32CA936CD}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\playercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -27,6 +35,32 @@
             {
               "$type": "Document",
               "DocumentIndex": 1,
+              "Title": "SceneManager.cs",
+              "DocumentMoniker": "C:\\GitHub\\Unity\\AECTech_Unity_WebGL_Workshop\\AEC_Tech_Sample_Project\\Assets\\Scripts\\SceneManager.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\SceneManager.cs",
+              "ToolTip": "C:\\GitHub\\Unity\\AECTech_Unity_WebGL_Workshop\\AEC_Tech_Sample_Project\\Assets\\Scripts\\SceneManager.cs",
+              "RelativeToolTip": "Assets\\Scripts\\SceneManager.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-24T02:35:18.854Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "RayCaster.cs",
+              "DocumentMoniker": "C:\\GitHub\\Unity\\AECTech_Unity_WebGL_Workshop\\AEC_Tech_Sample_Project\\Assets\\Scripts\\RayCaster.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\RayCaster.cs",
+              "ToolTip": "C:\\GitHub\\Unity\\AECTech_Unity_WebGL_Workshop\\AEC_Tech_Sample_Project\\Assets\\Scripts\\RayCaster.cs",
+              "RelativeToolTip": "Assets\\Scripts\\RayCaster.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAAwC4AAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-24T01:18:47.723Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
               "Title": "OrbitSpotLight.cs",
               "DocumentMoniker": "C:\\GitHub\\Unity\\AECTech_Unity_WebGL_Workshop\\AEC_Tech_Sample_Project\\Assets\\Scripts\\OrbitSpotLight.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\OrbitSpotLight.cs",
@@ -34,17 +68,18 @@
               "RelativeToolTip": "Assets\\Scripts\\OrbitSpotLight.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAbAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-22T00:18:40.509Z"
+              "WhenOpened": "2024-10-22T00:18:40.509Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 3,
               "Title": "BallSpring.cs",
               "DocumentMoniker": "C:\\GitHub\\Unity\\AECTech_Unity_WebGL_Workshop\\AEC_Tech_Sample_Project\\Assets\\Scripts\\BallSpring.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\BallSpring.cs",
               "ToolTip": "C:\\GitHub\\Unity\\AECTech_Unity_WebGL_Workshop\\AEC_Tech_Sample_Project\\Assets\\Scripts\\BallSpring.cs",
               "RelativeToolTip": "Assets\\Scripts\\BallSpring.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAIAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAA9AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-10-21T23:19:09.712Z",
               "EditorCaption": ""
@@ -59,7 +94,8 @@
               "RelativeToolTip": "Assets\\Scripts\\PlayerController.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAA7AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-21T01:54:55.825Z"
+              "WhenOpened": "2024-10-21T01:54:55.825Z",
+              "EditorCaption": ""
             }
           ]
         }

@@ -9,6 +9,7 @@ public class BallSpring : MonoBehaviour
 
     public void InstantiateBall()
     {
+        // Instantiate the same transform of this game object
         Instantiate(ballPrefab, transform.position, Quaternion.identity);
     }
 }
